@@ -2,6 +2,8 @@
 
 ## Description
 Simple Material Tool is a Blender addon that provides a set of utilities for managing materials and textures in your 3D projects. It simplifies common tasks such as removing unused data, assigning random materials, and automatically linking texture maps.
+- Bug report: https://forms.gle/2XLHNpiVGY472pjk8
+- Contact: rvakato@gmail.com
 
 ## Features
 
